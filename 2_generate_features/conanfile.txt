@@ -1,0 +1,4 @@
+[requires]
+pcapplusplus/21.05
+[generators]
+cmake
